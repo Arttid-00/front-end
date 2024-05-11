@@ -43,30 +43,30 @@ const columns = [
       },
 ];
 const data = [
-    {
-        key: "1",
-        date: "14-Sep-23",
-        start: "บางพลี",
-        end: "C.C Thai ",
-        distance:"203",
-        expenses: "4259",
-      },
-      {
-        key: "1",
-        date: "14-Sep-23",
-        start: "บางพลี",
-        end: "C.C Thai ",
-        distance:"203",
-        expenses: "4259",
-      },
-      {
-        key: "1",
-        date: "14-Sep-23",
-        start: "บางพลี",
-        end: "C.C Thai ",
-        distance:"203",
-        expenses: "4259",
-      },
+ {
+    key: "1",
+    date: "14-Sep-23",
+    start: "บางพลี",
+    end: "C.C Thai ",
+    distance:"203",
+    expenses: "4259",
+  },
+  {
+    key: "1",
+    date: "14-Sep-23",
+    start: "บางพลี",
+    end: "C.C Thai ",
+    distance:"203",
+    expenses: "4259",
+  },
+  {
+    key: "1",
+    date: "14-Sep-23",
+    start: "บางพลี",
+    end: "C.C Thai ",
+    distance:"203",
+    expenses: "4259",
+  },
 ];
 const EngTravel = () => {
   return (

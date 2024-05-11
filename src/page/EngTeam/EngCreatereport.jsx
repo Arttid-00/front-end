@@ -40,7 +40,7 @@ const EngCreateFormreport = () => {
             className="font"
             title="รายงานเข้าพบลูกค้า"
             bordered={false}
-            headStyle={{ backgroundColor: "#49ba67 " }}
+            headStyle={{ backgroundColor: "#FA465E " }}
             style={{
               backgroundColor: "#d4d4d4",
               width: 600, // ปรับ width ให้เล็กลง
@@ -85,7 +85,7 @@ const EngCreateFormreport = () => {
             <div className="pl-80 text-center">
               <div>
                 {" "}
-                <button className="rounded-lg w-20  bg-green-600  hover:bg-[green] ">
+                <button className="rounded-lg w-20  bg-rose-600  hover:bg-[rose] ">
                   บันทึก
                 </button>
               </div>
